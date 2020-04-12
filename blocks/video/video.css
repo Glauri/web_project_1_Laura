@@ -1,0 +1,35 @@
+.video{
+    background-color: white;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-title{
+    line-height: 1.15em;
+    font-size: 60;
+    font-weight: normal;
+
+}
+
+.section-subtitle{
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+.video__iframe{
+    background-color: grey;
+    width: 515px;
+    height: 316px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
