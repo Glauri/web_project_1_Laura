@@ -1,0 +1,44 @@
+.kaufman {
+    background-color: #1F1F1F;
+    padding: 90px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.section-title_theme_dark {
+    font-weight: bold;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+.section-subtitle_theme_dark {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    width: 60%;
+    margin: 20px 0 0;
+    padding: 0 20%;
+    color: white;
+    position: relative;
+}
+
+.kaufman__triangle {
+    position: absolute;
+    width: 877px;
+    height: 877px;
+    background-image: url(../images/triangle.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 0;
+    right: -210px;
+    z-index: 0;
+    overflow: hidden;
+    transform: rotate(15deg);
+    -webkit-animation: 20s rotate linear infinite;
+    animation: 20s rotate linear infinite;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
