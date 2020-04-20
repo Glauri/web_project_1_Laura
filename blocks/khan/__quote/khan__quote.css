@@ -1,0 +1,9 @@
+@import url(../__quote/__quote_author.css);
+@import url(../__quote/khan__quote_author_sublime.css);
+
+.khan__quote{
+    height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    width: 790px;
+}

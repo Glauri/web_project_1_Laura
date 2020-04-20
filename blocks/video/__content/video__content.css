@@ -1,0 +1,14 @@
+@import url(../__content/__content_theme_dark.css);
+
+.video__content{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: 0;
+    justify-content: center;
+    margin-top: 200px;
+}   
