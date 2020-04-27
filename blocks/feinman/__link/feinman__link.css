@@ -8,6 +8,7 @@
     right: 48px;
     text-decoration: none;
     margin-top:-60px ;
+    -webkit-transition: background-color 0.2s linear 0.2s;
     transition: background-color 0.2s linear 0.2s;
 
   }

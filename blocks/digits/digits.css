@@ -1,28 +1,14 @@
 @import url(../digits/table/table.css);
+@import url(../digits/__section/digits__section-subtitle.css);
+@import url(../digits/__section/digits__section-title.css);
 
 .digits{
+    
     margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
-.section-title {
-    width: 60%;
-    text-align: center;
-    font-size: 60px;
-    font-weight: 700;
-    margin: 0;
-    padding: 0 20%;
-    line-height: 69px;
-    font-weight: bold;
-}
 
-.section-subtitle {
-    width: 60%;
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    text-align: center;
-    margin: 20px 0 0;
-    padding: 0 20%;   
-}
 

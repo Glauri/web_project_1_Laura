@@ -3,17 +3,18 @@
     width: 515px;
     height: 316px;
     margin-bottom: 0;
-    margin-left: 5px;
+    margin-left: 20px;
     margin-top: 0;
+    padding-top: 0;
     
 }
 
 .video__iframe:first-child{
     position: relative;
-    top: -250px;
+    bottom: -20px;
 }
 
 .video__iframe:last-child{
     position: relative;
-    top:-250px;
+    bottom:-20px;
 }

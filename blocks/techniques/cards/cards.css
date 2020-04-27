@@ -7,9 +7,12 @@
 
 .cards{
     width: 80%;
-    margin-left: auto;
+    margin-left: 95px;
     margin-right: auto;
-    margin-top: 10px;
+    margin-top: 50px;
+    -webkit-display: box;
+    -ms-display: flexbox;
+    display: -webkit-box;
     display: flex;
     flex-wrap: wrap;
-    }
+}

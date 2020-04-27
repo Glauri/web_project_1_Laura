@@ -2,13 +2,17 @@
 
 .video__content{
 
+    height: 20px;
+    display: -webkit-box;
     display: flex;
-    flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
     flex-wrap: nowrap;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 300px;
-    margin-bottom: 0;
-    justify-content: center;
-    margin-top: 200px;
+    margin-top: 30px;
+    -webkit-box-pack: center;
+            justify-content: center;
+   
 }   

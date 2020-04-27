@@ -1,21 +1,9 @@
 @import url(../video/__iframe/video__iframe.css);
 @import url(../video/__content/content.css);
+@import url(../video/__section/video__section-subtitle.css);
+@import url(../video/__section/video__section-title.css);
 
 
 .video{
-    height: 100vh;
-}
-
-.section-title{
-    line-height: 1.15em;
-    font-size: 60;
-    font-weight: normal;
-    
-}
-
-.section-subtitle{
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    margin-bottom: 10px;
+    height: 460px;
 }

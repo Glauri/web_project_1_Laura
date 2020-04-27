@@ -1,7 +1,7 @@
 @import url(../resources/__logo/resources__logo-zone.css);
 @import url(../resources/__logo/resources__logo.css);
-@import url(../resources/section/section-subtitle.css);
-@import url(../resources/section/section-title.css);
+@import url(../techniques/__section/section-subtitle.css);
+@import url(../techniques/__section/section-title.css);
 
 .resources{
     padding-bottom: 217px;;

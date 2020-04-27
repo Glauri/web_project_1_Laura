@@ -2,8 +2,9 @@
     height: 42px;
     font-size: 30px;
     font-weight: normal;
-    margin-top: 0px;
+    margin-top: 70px;
     margin-left: 5px;
+    -webkit-transition: background-color 0.2s linear 0.2s;
     transition: background-color 0.2s linear 0.2s;
 
 }

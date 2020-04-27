@@ -2,12 +2,18 @@
 @import url(../two-columns/__main-text/two-columns__main-text.css);
 @import url(../two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../two-columns/__main-text/two-columns__main-text.css);
 
 .two-columns {
+    display: -webkit-box;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
     width: 80%;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    justify-items: center;
+    padding-top: 90px;
     
 }

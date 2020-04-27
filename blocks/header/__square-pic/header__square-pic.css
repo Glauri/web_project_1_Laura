@@ -6,7 +6,8 @@
     top: 64px;
     right: 0;
     z-index: 0;
-    transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
     -webkit-animation: 20s rotate linear infinite;
     animation: 20s rotate linear infinite;
     -webkit-transform-origin: 50% 50%;

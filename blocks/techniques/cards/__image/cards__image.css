@@ -3,9 +3,11 @@
     width: 160px;
     height: 160px;
     border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
     padding-right: 40px;
     padding-left: 40px;
-    margin-left: 20px;
+    margin-left: 50px;
     }
 
 

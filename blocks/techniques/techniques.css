@@ -1,28 +1,16 @@
 @import url(../techniques/cards/cards.css);
+@import url(../techniques/__section/section-subtitle.css);
+@import url(../techniques/__section/section-title.css);
 
 .techniques{
     margin-left: auto;
     margin-right: auto;
-   
+    margin-bottom: 100px;
     
 }
-.section-title{
-    line-height: 1.15em;
-    font-size: 60px;
-    font-weight: bold;
-    text-align: center;
-    width: 60%;
-    padding-top: 100px;
-}
 
-.section-subtitle{
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    width: 60%;
-    padding-top: 20px;
 
-}
+
 
 
 

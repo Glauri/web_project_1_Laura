@@ -1,7 +1,10 @@
+@import url(../techniques/__section/section-subtitle.css);
+@import url(../techniques/__section/section-title.css);
+@import url(../techniques/__section/section-title_theme_dark.css);
+@import url(../techniques/__section/section-subtitle_theme_dark.css);
 @import url(../digits/table/table.css);
+@import url(../digits/table/__theme_dark/table__theme_dark.css);
 @import url(../kaufman/__triangle/kaufman__triangle.css);
-@import url(../kaufman/section/section.css);
-
 
 .kaufman {
     background-color: #1F1F1F;

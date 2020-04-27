@@ -3,6 +3,7 @@
     z-index: 1;
     color: #2F80ED;
     text-decoration: none;
+    -webkit-transition: background-color 0.2s linear 0.2s;
     transition: background-color 0.2s linear 0.2s;
 
   }

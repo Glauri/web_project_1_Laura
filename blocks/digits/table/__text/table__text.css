@@ -1,6 +1,7 @@
 @import url(../__text/table__text_theme_dark.css);
 
 .table__text {
+    display: -webkit-box;
     display: flex;
     font-size: 18px;
     line-height: 1.2;
